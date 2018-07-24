@@ -1,2 +1,2 @@
 # wangke
-[Enter](Website.html)
+[Enter](index.html)
